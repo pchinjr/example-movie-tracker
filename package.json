@@ -1,0 +1,28 @@
+{
+  "name": "example-movie-tracker",
+  "version": "1.0.0",
+  "description": "Boilerplate Begin App for Movie Tracker tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchinjr/example-movie-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchinjr/example-movie-tracker/issues"
+  },
+  "homepage": "https://github.com/pchinjr/example-movie-tracker#readme",
+  "devDependencies": {
+    "@architect/architect": "^8.5.3"
+  },
+  "dependencies": {
+    "@architect/functions": "^3.13.9",
+    "@begin/data": "^2.0.1"
+  }
+}
